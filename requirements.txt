@@ -9,3 +9,7 @@ scipy>=0.15.1
 scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
+Flask-Cors==3.0.10
+importlib-metadata==4.0.1
+ipykernel==5.5.3
+ipython==7.22.0
