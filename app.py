@@ -5,7 +5,7 @@ import pandas as pd
 
 
 app = Flask(__name__)
-model = pickle.load(open("model_inventory.pkl", "rb"))
+model = pickle.load(open("rf_model_inventory.pkl", "rb"))
 
 
 
